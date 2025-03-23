@@ -82,4 +82,4 @@ Make sure the FastAPI backend URL in the Flutter application is set to the corre
 final String apiUrl = 'https://linear-regression-model-0jqg.onrender.com/predict/';
 ```
 
-Click for here [YouTube_Demo_Video](https://youtu.be/mysYXTmumiA)
+Click for here [YouTube_Demo_Video](https://youtu.be/ntf8EMHdzzc)
